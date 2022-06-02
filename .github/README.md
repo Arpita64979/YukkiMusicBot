@@ -12,6 +12,11 @@
 * Multi-Language support
 
 
+## 🚀 Okteto Deployment
+
+<h4>Click the button below to deploy Yukki on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Arpita64979/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+
 # 🔗 An Overview
 
 Here's a brief high-level overview of the Yukki Music Bot:
